@@ -3,3 +3,4 @@
 <h2><font color=green> I removed a line here </font></h2>
 <br>
 
+<h1>A new line </h1>
